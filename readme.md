@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amaldeep</h1>
 <h3 align="center">A Cybersecurity Enthusiast</h3>
 
-- 🌱 I’m currently learning **Cybersecurity Systems and Networks**
+- 🌱 **Cybersecurity Enthusiast**
 
 <!-- - 📫 How to reach me **amaldeeps7@gmail.com** -->
 <!--
